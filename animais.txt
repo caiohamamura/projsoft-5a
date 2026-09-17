@@ -1,4 +1,5 @@
 cachorro
 rato
+gato
 papagaio
 peixe
