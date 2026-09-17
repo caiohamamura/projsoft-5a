@@ -1,1 +1,5 @@
-
+cachorro
+gato
+rato
+periquito
+peixe
