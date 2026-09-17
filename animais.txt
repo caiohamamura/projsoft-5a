@@ -1,5 +1,8 @@
 cachorro
 rato
+jacaré
 gato
 papagaio
 peixe
+cobra
+lagarto
