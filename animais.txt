@@ -1,4 +1,7 @@
 cachorro
 rato
+jacaré
 papagaio
 peixe
+cobra
+lagarto
